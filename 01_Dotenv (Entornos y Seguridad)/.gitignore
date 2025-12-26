@@ -1,0 +1,12 @@
+# Archivos de entorno y segurida
+.env
+.env.*
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos basura 
+__pycache__/
+*.py[cod]
