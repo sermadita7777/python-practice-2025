@@ -1,0 +1,6 @@
+fecha,cliente,importe,estado
+2024-01-01,Imprex,1000,Confirmado
+02/01/2024,  IMPREX  ,250.50,Confirmado
+,Logista,,Pendiente
+2024-01-05,Amazon,ERROR,Cancelado
+2024-01-05,Amazon,1500,Cancelado
